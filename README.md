@@ -25,3 +25,25 @@ There is a significant difference between the average satisfaction scores of Gro
 
 ### Conclusion:
 Failed to Reject Null Hypothesis. Therefore, there is no significant difference between the average satisfaction scores of Groups A and B.
+
+## Levene Test and F-Test
+
+### Null Hypothesis:
+There is no significant difference between the variances of Groups A and B.
+
+### Alternative Hypothesis: 
+There is a significant difference between the variances of Groups A and B.
+
+### Conclusion:
+Failed to Reject Null Hypothesis. Therefore, there is no significant difference between the variances of Groups A and B.
+
+## One Way ANOVA
+
+### Null Hypothesis:
+There is no significant difference between the satisfaction scores of customers of different loyalty levels.
+
+### Alternative Hypothesis:
+There is a significant difference between the satisfaction scores of customers of different loyalty levels.
+
+### Conclusion: 
+Failed to Reject Null Hypothesis. Therefore, there is no significant difference between the satisfaction scores of customers of different loyalty levels.
